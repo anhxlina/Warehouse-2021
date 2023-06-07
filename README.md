@@ -1,2 +1,2 @@
-# Warehouse-2021-
+# Warehouse-2021
 Warehouse operating system via Java
